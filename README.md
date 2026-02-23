@@ -35,4 +35,4 @@ Este projeto reúne conhecimentos fundamentais sobre educação financeira, abor
 🔍 Visão Geral das Fontes:
 1. Perspectiva Educacional (Seduc-SP)
 Foca na institucionalização da disciplina na rede estadual de São Paulo para mais de 1 milhão de alunos.
-+ Destaque: Demonstra como a educação financeira gera impacto real, transformando estudantes em influenciadores de finanças e utilizando gamificação (como as "Pio Coins") para melhorar o desempenho escolar e o comportamento socioemocional
+Destaque: Demonstra como a educação financeira gera impacto real, transformando estudantes em influenciadores de finanças e utilizando gamificação (como as "Pio Coins") para melhorar o desempenho escolar e o comportamento socioemocional
