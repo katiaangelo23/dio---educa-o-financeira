@@ -20,7 +20,8 @@ Esse repositório refere-se a um caderno temático criado através da ferramenta
 + Crédito e CET: O crédito é um recurso de terceiros que permite antecipar o consumo. O Custo Efetivo Total (CET) é o percentual que inclui juros, tarifas e impostos, permitindo comparar ofertas de diferentes bancos.
 + Consumo Consciente: Ato de consumir levando em conta os impactos sociais, ambientais e econômicos de médio e longo prazo.
 + Tripé dos Investimentos: Composto por Liquidez (facilidade de converter em dinheiro), Risco (probabilidade de perdas) e Rentabilidade (retorno financeiro).
-  "Prompts Reutilizáveis" (Roteiros e Orientações Práticas)
+
+"Prompts Reutilizáveis" (Roteiros e Orientações Práticas)
 + Roteiro para Diagnóstico Financeiro: Inclui o registro diário de gastos, conferência de extratos, guarda de notas fiscais e separação de despesas em dinheiro, débito e crédito.
 + Guia para Sair das Dívidas: Sequência de passos que envolvem: tomar consciência, mapear as dívidas, não fazer novos débitos, renegociar com credores e reduzir gastos.
 + Prompt de Consumo Consciente: Uma tabela comparativa que diferencia o "consumidor consumista" do "consumidor consciente" através de comportamentos específicos, como evitar desperdícios e não comprar produtos piratas.
