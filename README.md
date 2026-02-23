@@ -12,7 +12,6 @@ Esse repositório refere-se a um caderno temático criado através da ferramenta
 
 ## Glossário e Prompts Reutilizáveis:
 + 1. "Glossário" (Definições de Conceitos-Chave)
-Embora não haja uma lista única, as fontes definem os principais termos da educação financeira:
 • Educação Financeira: Definida como o processo de entender como o dinheiro funciona, incluindo ganhar, gerenciar, investir e gastar, visando a autonomia e a segurança.
 • Sonho vs. Projeto: O sonho é o desejo abstrato ou anseio; o projeto é o sonho colocado "no papel", com início, fim, metas e recursos definidos para torná-lo realidade.
 • Troca Intertemporal: Refere-se à escolha entre gastar no presente ou poupar para o futuro, envolvendo o custo de juros ou o ganho de rendimentos.
@@ -21,8 +20,7 @@ Embora não haja uma lista única, as fontes definem os principais termos da edu
 • Crédito e CET: O crédito é um recurso de terceiros que permite antecipar o consumo. O Custo Efetivo Total (CET) é o percentual que inclui juros, tarifas e impostos, permitindo comparar ofertas de diferentes bancos.
 • Consumo Consciente: Ato de consumir levando em conta os impactos sociais, ambientais e econômicos de médio e longo prazo.
 • Tripé dos Investimentos: Composto por Liquidez (facilidade de converter em dinheiro), Risco (probabilidade de perdas) e Rentabilidade (retorno financeiro).
-2. "Prompts Reutilizáveis" (Roteiros e Orientações Práticas)
-As seções intituladas "Ponha em prática" e as listas de "Dicas" funcionam como instruções passo a passo reutilizáveis para o cotidiano:
++ 2. "Prompts Reutilizáveis" (Roteiros e Orientações Práticas)
 • Roteiro para Diagnóstico Financeiro: Inclui o registro diário de gastos, conferência de extratos, guarda de notas fiscais e separação de despesas em dinheiro, débito e crédito.
 • Guia para Sair das Dívidas: Sequência de passos que envolvem: tomar consciência, mapear as dívidas, não fazer novos débitos, renegociar com credores e reduzir gastos.
 • Prompt de Consumo Consciente: Uma tabela comparativa que diferencia o "consumidor consumista" do "consumidor consciente" através de comportamentos específicos, como evitar desperdícios e não comprar produtos piratas.
