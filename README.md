@@ -8,7 +8,7 @@ Esse repositório refere-se a um caderno temático criado através da ferramenta
 + Banco Central do Brasil (BCB)**: Consiste em trechos do "**Caderno de Educação Financeira – Gestão de Finanças Pessoais (Conteúdo Básico)**", publicado em 2013, que serve como um guia técnico e educativo sobre a relação com o dinheiro, orçamento, crédito e investimentos.
 
 ## Objetivos:
-+ O objetivo desse guia é para tornar o indíviduo responsável para administrar seu dinheiro de forma consciente e eficaz, tornando-se um indivíduo com autonomia e qualidade de vida.
+O objetivo desse guia é para tornar o indíviduo responsável para administrar seu dinheiro de forma consciente e eficaz, tornando-se um indivíduo com autonomia e qualidade de vida.
 
 ## Glossário e Prompts Reutilizáveis:
   "Glossário" (Definições de Conceitos-Chave)
@@ -28,3 +28,11 @@ Esse repositório refere-se a um caderno temático criado através da ferramenta
 + Checklist para Supermercado: Instruções como "fazer lista", "ir alimentado" e "comparar preços de marcas diferentes".
 + Exercícios de Fixação: O "Caderno de Educação Financeira" do Banco Central disponibiliza uma seção completa de exercícios e um gabarito que podem ser reutilizados para autoavaliação ou ensino.
 Se você estiver procurando por prompts para inteligência artificial (como modelos de texto para interagir com LLMs) baseados neste conteúdo, as fontes não os fornecem de forma nativa, mas você pode usar as orientações das seções "Ponha em prática" para criar comandos personalizados.
+
+## Repositório de Educação Financeira: Do Ensino à Prática:
+Este projeto reúne conhecimentos fundamentais sobre educação financeira, abordando desde sua implementação no sistema de ensino público até guias técnicos para a gestão de finanças pessoais e empresariais.
+
+🔍 Visão Geral das Fontes:
+1. Perspectiva Educacional (Seduc-SP)
+Foca na institucionalização da disciplina na rede estadual de São Paulo para mais de 1 milhão de alunos.
+• Destaque: Demonstra como a educação financeira gera impacto real, transformando estudantes em influenciadores de finanças e utilizando gamificação (como as "Pio Coins") para melhorar o desempenho escolar e o comportamento socioemocional
