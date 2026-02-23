@@ -45,4 +45,13 @@ Explora os desafios e categorias da educação financeira, dividindo-a em Pessoa
 4. Conteúdo Técnico e Conceitual (Banco Central do Brasil)
 Proporciona a base teórica e técnica necessária para a cidadania financeira, detalhando o funcionamento do Sistema Financeiro Nacional.
 + Destaque: Aprofunda conceitos como a Troca Intertemporal (escolha entre consumir agora ou no futuro), o impacto dos juros compostos no tempo e a importância da prevenção através de seguros e planejamento previdenciário.
+
+💡 Conceitos-Chave Transversais:
++ Orçamento: Ferramenta essencial para equilibrar receitas e despesas, visando sempre um orçamento superavitário.
++ Crédito Consciente: O crédito deve ser visto como uma antecipação de consumo que possui custo (juros) e deve ser usado de forma estratégica para evitar o superendividamento.
++ Tripé dos Investimentos: Toda aplicação deve ser avaliada com base em Liquidez, Risco e Rentabilidade.
++ Consumo Consciente: Ações que consideram o impacto social, ambiental e econômico das escolhas de compra.
+
+🚀 Como Aplicar:
++ As fontes sugerem um ciclo contínuo de Planejamento, Registro, Agrupamento e Avaliação. A educação financeira não é apenas sobre "fazer contas", mas sobre desenvolver autonomia e segurança para tomar decisões que garantam o bem-estar presente e futuro.
   
