@@ -35,4 +35,14 @@ Este projeto reúne conhecimentos fundamentais sobre educação financeira, abor
 🔍 Visão Geral das Fontes:
 1. Perspectiva Educacional (Seduc-SP)
 Foca na institucionalização da disciplina na rede estadual de São Paulo para mais de 1 milhão de alunos.
-Destaque: Demonstra como a educação financeira gera impacto real, transformando estudantes em influenciadores de finanças e utilizando gamificação (como as "Pio Coins") para melhorar o desempenho escolar e o comportamento socioemocional
++ Destaque: Demonstra como a educação financeira gera impacto real, transformando estudantes em influenciadores de finanças e utilizando gamificação (como as "Pio Coins") para melhorar o desempenho escolar e o comportamento socioemocional.
+2. Guia de Gestão Pessoal (Financia Tudo)
+Funciona como um manual prático para o cotidiano, focando na mudança da relação emocional com o dinheiro.
++ Destaque: Estabelece os pilares do controle financeiro: registro de receitas/despesas, diferenciação entre desejos e necessidades, criação de reserva de emergência e planejamento de longo prazo.
+3. Primeiros Passos e Segmentação (SPC Brasil)
+Explora os desafios e categorias da educação financeira, dividindo-a em Pessoal, Familiar e Empresarial.
++ Destaque: Oferece um roteiro de 5 passos para a saúde financeira: diagnóstico da situação atual, controle de gastos, definição de metas, pesquisa constante e criação do hábito de poupar.
+4. Conteúdo Técnico e Conceitual (Banco Central do Brasil)
+Proporciona a base teórica e técnica necessária para a cidadania financeira, detalhando o funcionamento do Sistema Financeiro Nacional.
++ Destaque: Aprofunda conceitos como a Troca Intertemporal (escolha entre consumir agora ou no futuro), o impacto dos juros compostos no tempo e a importância da prevenção através de seguros e planejamento previdenciário.
+  
